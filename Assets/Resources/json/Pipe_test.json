@@ -1,0 +1,77 @@
+﻿{
+	"info":
+	[
+		{
+		 "type": "angle",
+		 "xPos": 0,
+		 "yPos": 0,
+		 "numRotates": 1
+		},
+		{
+		 "type": "straight",
+		 "xPos": 0,
+		 "yPos": 1,
+		 "numRotates": 1
+		},
+		{
+		 "type": "angle",
+		 "xPos": 0,
+		 "yPos": 2,
+		 "numRotates": 1
+		},
+		{
+		 "type": "end",
+		 "xPos": 0,
+		 "yPos": 3,
+		 "numRotates": 1
+		},
+		{
+		 "type": "straight",
+		 "xPos": 1,
+		 "yPos": 0,
+		 "numRotates": 1
+		},
+		{
+		 "type": "t",
+		 "xPos": 1,
+		 "yPos": 1,
+		 "numRotates": 1
+		},
+		{
+		 "type": "straight",
+		 "xPos": 1,
+		 "yPos": 2,
+		 "numRotates": 1
+		},
+		{
+		 "type": "cross",
+		 "xPos": 1,
+		 "yPos": 3,
+		 "numRotates": 1
+		},
+		{
+		 "type": "angle",
+		 "xPos": 2,
+		 "yPos": 0,
+		 "numRotates": 1
+		},
+		{
+		 "type": "angle",
+		 "xPos": 2,
+		 "yPos": 1,
+		 "numRotates": 1
+		},
+		{
+		 "type": "cross",
+		 "xPos": 2,
+		 "yPos": 2,
+		 "numRotates": 1
+		},
+		{
+		 "type": "start",
+		 "xPos": 2,
+		 "yPos": 3,
+		 "numRotates": 1
+		}
+	]
+}
